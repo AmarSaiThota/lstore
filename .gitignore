@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.zip
+
+# database files written by the testers
+ECS165*/
+*.bin
+*.tbl
+db.meta
+meta.pkl
